@@ -1,7 +1,7 @@
 # Ai.Group™ CV
 
 ## Location
-> **Current Location:** Kerman Province, Iran
+> **Current Location:** London, United Kingdom 
 
 ## Profiles & Contact Info
 >
@@ -12,7 +12,7 @@
 ## Location Preferences
 >
 
-## About `AI.Group`
+## About `Ai.Group™`
 >
 
 ## Experiences
