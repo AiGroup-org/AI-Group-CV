@@ -1,4 +1,4 @@
-# AI.Group CV
+# Ai.Group™ CV
 
 ## Location
 > **Current Location:** Kerman Province, Iran
